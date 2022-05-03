@@ -1,0 +1,44 @@
+[
+    {
+        "s": "아로나",
+        "m": "benchmark 5",
+        "v": 0,
+        "t": 1651572896475
+    },
+    {
+        "s": "나나시 무메이",
+        "m": "　- Environment Info -\nDeviceModel:　SM-F926N\nVersionName:　12\nVersionCode:　31",
+        "v": 1,
+        "t": 1651572896526
+    },
+    {
+        "s": "나나시 무메이",
+        "m": "Preheating..",
+        "v": 1,
+        "t": 1651572896527
+    },
+    {
+        "s": "나나시 무메이",
+        "m": "Starting benchmark with 5 loops...",
+        "v": 1,
+        "t": 1651572904653
+    },
+    {
+        "s": "나나시 무메이",
+        "m": "Benchmark completed in 51946ms",
+        "v": 1,
+        "t": 1651572956599
+    },
+    {
+        "s": "나나시 무메이",
+        "m": "Result#0 : 11454ms\nResult#1 : 10609ms\nResult#2 : 9852ms\nResult#3 : 10403ms\nResult#4 : 9627ms",
+        "v": 1,
+        "t": 1651572956600
+    },
+    {
+        "s": "나나시 무메이",
+        "m": "Overall: 10389.0000",
+        "v": 1,
+        "t": 1651572956601
+    }
+]

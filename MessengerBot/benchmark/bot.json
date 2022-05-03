@@ -1,0 +1,16 @@
+{
+    "main": "benchmark.js",
+    "option": {
+        "apiLevel": 1,
+        "useUnifiedParams": false,
+        "useBabel": false,
+        "optimization": 9,
+        "scriptPower": false,
+        "debugRoom": {
+            "name": "DEBUG ROOM",
+            "sender": "DEBUG SENDER",
+            "isGroupChat": false,
+            "packageName": "com.xfl.msgbot"
+        }
+    }
+}

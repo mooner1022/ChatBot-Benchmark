@@ -1,0 +1,60 @@
+{
+    "chats": [
+        {
+            "sender": "DEBUG SENDER",
+            "content": "benchmark 5",
+            "timeMillis": 1651573775994,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/benchmark\/DebugRoom\/message\/1651573775994-380063778787151}"
+        },
+        {
+            "sender": "benchmark",
+            "content": "　- Environment Info -\nDeviceModel:　q2q\nVersionName:　12\nVersionCode:　31",
+            "timeMillis": 1651573776026,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/benchmark\/DebugRoom\/message\/1651573776026-380063794732203}"
+        },
+        {
+            "sender": "benchmark",
+            "content": "Preheating..",
+            "timeMillis": 1651573776044,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/benchmark\/DebugRoom\/message\/1651573776044-380063813284339}"
+        },
+        {
+            "sender": "benchmark",
+            "content": "Starting benchmark with 5 loops...",
+            "timeMillis": 1651573777491,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/benchmark\/DebugRoom\/message\/1651573777491-380065261647724}"
+        },
+        {
+            "sender": "benchmark",
+            "content": "Benchmark completed in 9291ms",
+            "timeMillis": 1651573786783,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/benchmark\/DebugRoom\/message\/1651573786783-380074553410064}"
+        },
+        {
+            "sender": "benchmark",
+            "content": "Result#0 : 1890ms\nResult#1 : 1832ms\nResult#2 : 1804ms\nResult#3 : 1762ms\nResult#4 : 2002ms",
+            "timeMillis": 1651573786809,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/benchmark\/DebugRoom\/message\/1651573786809-380074578401991}"
+        },
+        {
+            "sender": "benchmark",
+            "content": "Overall: 1858.0000",
+            "timeMillis": 1651573786826,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/benchmark\/DebugRoom\/message\/1651573786826-380074596581157}"
+        }
+    ]
+}

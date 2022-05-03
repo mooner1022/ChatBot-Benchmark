@@ -1,0 +1,528 @@
+[
+    {
+        "t": "INFO",
+        "th": "main",
+        "m": "Compiling project Benchmark...",
+        "l": 1651544319815
+    },
+    {
+        "t": "VERBOSE",
+        "a": "Project-Benchmark",
+        "th": "DefaultDispatcher-worker-3",
+        "m": "engine released",
+        "l": 1651544357557
+    },
+    {
+        "t": "INFO",
+        "th": "DefaultDispatcher-worker-3",
+        "m": "Compiling project Benchmark...",
+        "l": 1651544357576
+    },
+    {
+        "t": "VERBOSE",
+        "a": "Project-Benchmark",
+        "th": "main",
+        "m": "engine released",
+        "l": 1651544382020
+    },
+    {
+        "t": "INFO",
+        "th": "main",
+        "m": "Compiling project Benchmark...",
+        "l": 1651544382037
+    },
+    {
+        "t": "VERBOSE",
+        "a": "Project-Benchmark",
+        "th": "DefaultDispatcher-worker-17",
+        "m": "engine released",
+        "l": 1651544484735
+    },
+    {
+        "t": "INFO",
+        "th": "DefaultDispatcher-worker-17",
+        "m": "Compiling project Benchmark...",
+        "l": 1651544484755
+    },
+    {
+        "t": "VERBOSE",
+        "a": "Project-Benchmark",
+        "th": "main",
+        "m": "engine released",
+        "l": 1651544497057
+    },
+    {
+        "t": "INFO",
+        "th": "main",
+        "m": "Compiling project Benchmark...",
+        "l": 1651544497072
+    },
+    {
+        "t": "VERBOSE",
+        "a": "Project-Benchmark",
+        "th": "main",
+        "m": "engine released",
+        "l": 1651544571892
+    },
+    {
+        "t": "INFO",
+        "th": "main",
+        "m": "Compiling project Benchmark...",
+        "l": 1651544571910
+    },
+    {
+        "t": "VERBOSE",
+        "a": "Project-Benchmark",
+        "th": "DefaultDispatcher-worker-5",
+        "m": "engine released",
+        "l": 1651544580468
+    },
+    {
+        "t": "INFO",
+        "th": "DefaultDispatcher-worker-5",
+        "m": "Compiling project Benchmark...",
+        "l": 1651544580487
+    },
+    {
+        "t": "VERBOSE",
+        "a": "Project-Benchmark",
+        "th": "main",
+        "m": "engine released",
+        "l": 1651544868655
+    },
+    {
+        "t": "INFO",
+        "th": "main",
+        "m": "Compiling project Benchmark...",
+        "l": 1651544868672
+    },
+    {
+        "t": "VERBOSE",
+        "a": "Project-Benchmark",
+        "th": "main",
+        "m": "engine released",
+        "l": 1651544941419
+    },
+    {
+        "t": "INFO",
+        "th": "main",
+        "m": "Compiling project Benchmark...",
+        "l": 1651544941433
+    },
+    {
+        "t": "VERBOSE",
+        "a": "Project-Benchmark",
+        "th": "DefaultDispatcher-worker-8",
+        "m": "engine released",
+        "l": 1651544943277
+    },
+    {
+        "t": "INFO",
+        "th": "DefaultDispatcher-worker-8",
+        "m": "Compiling project Benchmark...",
+        "l": 1651544943287
+    },
+    {
+        "t": "VERBOSE",
+        "a": "Project-Benchmark",
+        "th": "main",
+        "m": "engine released",
+        "l": 1651544990739
+    },
+    {
+        "t": "INFO",
+        "th": "main",
+        "m": "Compiling project Benchmark...",
+        "l": 1651544990755
+    },
+    {
+        "t": "VERBOSE",
+        "a": "Project-Benchmark",
+        "th": "main",
+        "m": "engine released",
+        "l": 1651545021152
+    },
+    {
+        "t": "INFO",
+        "th": "main",
+        "m": "Compiling project Benchmark...",
+        "l": 1651545021160
+    },
+    {
+        "t": "VERBOSE",
+        "a": "Project-Benchmark",
+        "th": "main",
+        "m": "engine released",
+        "l": 1651545040091
+    },
+    {
+        "t": "INFO",
+        "th": "main",
+        "m": "Compiling project Benchmark...",
+        "l": 1651545040110
+    },
+    {
+        "t": "VERBOSE",
+        "a": "Project-Benchmark",
+        "th": "DefaultDispatcher-worker-17",
+        "m": "engine released",
+        "l": 1651550171593
+    },
+    {
+        "t": "INFO",
+        "th": "DefaultDispatcher-worker-17",
+        "m": "Compiling project Benchmark...",
+        "l": 1651550171606
+    },
+    {
+        "t": "VERBOSE",
+        "a": "Project-Benchmark",
+        "th": "main",
+        "m": "engine released",
+        "l": 1651550498694
+    },
+    {
+        "t": "INFO",
+        "th": "main",
+        "m": "Compiling project Benchmark...",
+        "l": 1651550498715
+    },
+    {
+        "t": "VERBOSE",
+        "a": "Project-Benchmark",
+        "th": "main",
+        "m": "engine released",
+        "l": 1651550501485
+    },
+    {
+        "t": "INFO",
+        "th": "main",
+        "m": "Compiling project Benchmark...",
+        "l": 1651550501502
+    },
+    {
+        "t": "VERBOSE",
+        "a": "Project-Benchmark",
+        "th": "DefaultDispatcher-worker-1",
+        "m": "engine released",
+        "l": 1651550503163
+    },
+    {
+        "t": "INFO",
+        "th": "DefaultDispatcher-worker-1",
+        "m": "Compiling project Benchmark...",
+        "l": 1651550503181
+    },
+    {
+        "t": "INFO",
+        "th": "DefaultDispatcher-worker-20",
+        "m": "Compiling project Benchmark...",
+        "l": 1651552815610
+    },
+    {
+        "t": "VERBOSE",
+        "a": "Project-Benchmark",
+        "th": "DefaultDispatcher-worker-20",
+        "m": "engine released",
+        "l": 1651552846176
+    },
+    {
+        "t": "INFO",
+        "th": "DefaultDispatcher-worker-20",
+        "m": "Compiling project Benchmark...",
+        "l": 1651552846200
+    },
+    {
+        "t": "VERBOSE",
+        "a": "Project-Benchmark",
+        "th": "main",
+        "m": "engine released",
+        "l": 1651552995569
+    },
+    {
+        "t": "INFO",
+        "th": "main",
+        "m": "Compiling project Benchmark...",
+        "l": 1651552995594
+    },
+    {
+        "t": "VERBOSE",
+        "a": "Project-Benchmark",
+        "th": "DefaultDispatcher-worker-9",
+        "m": "engine released",
+        "l": 1651553086519
+    },
+    {
+        "t": "INFO",
+        "th": "DefaultDispatcher-worker-9",
+        "m": "Compiling project Benchmark...",
+        "l": 1651553086547
+    },
+    {
+        "t": "INFO",
+        "th": "DefaultDispatcher-worker-1",
+        "m": "Compiling project Benchmark...",
+        "l": 1651553758602
+    },
+    {
+        "t": "INFO",
+        "th": "DefaultDispatcher-worker-7",
+        "m": "Compiling project Benchmark...",
+        "l": 1651562900373
+    },
+    {
+        "t": "VERBOSE",
+        "a": "Project-Benchmark",
+        "th": "DefaultDispatcher-worker-16",
+        "m": "engine released",
+        "l": 1651562946866
+    },
+    {
+        "t": "INFO",
+        "th": "DefaultDispatcher-worker-16",
+        "m": "Compiling project Benchmark...",
+        "l": 1651562946890
+    },
+    {
+        "t": "VERBOSE",
+        "a": "Project-Benchmark",
+        "th": "DefaultDispatcher-worker-16",
+        "m": "engine released",
+        "l": 1651562956225
+    },
+    {
+        "t": "INFO",
+        "th": "DefaultDispatcher-worker-16",
+        "m": "Compiling project Benchmark...",
+        "l": 1651562956253
+    },
+    {
+        "t": "INFO",
+        "th": "DefaultDispatcher-worker-17",
+        "m": "Compiling project Benchmark...",
+        "l": 1651563130477
+    },
+    {
+        "t": "INFO",
+        "th": "DefaultDispatcher-worker-24",
+        "m": "Compiling project Benchmark...",
+        "l": 1651563406869
+    },
+    {
+        "t": "INFO",
+        "th": "DefaultDispatcher-worker-10",
+        "m": "Compiling project Benchmark...",
+        "l": 1651565044275
+    },
+    {
+        "t": "VERBOSE",
+        "a": "Project-Benchmark",
+        "th": "DefaultDispatcher-worker-2",
+        "m": "engine released",
+        "l": 1651565064323
+    },
+    {
+        "t": "INFO",
+        "th": "DefaultDispatcher-worker-2",
+        "m": "Compiling project Benchmark...",
+        "l": 1651565064348
+    },
+    {
+        "t": "VERBOSE",
+        "a": "Project-Benchmark",
+        "th": "DefaultDispatcher-worker-6",
+        "m": "engine released",
+        "l": 1651565080280
+    },
+    {
+        "t": "INFO",
+        "th": "DefaultDispatcher-worker-6",
+        "m": "Compiling project Benchmark...",
+        "l": 1651565080296
+    },
+    {
+        "t": "INFO",
+        "th": "DefaultDispatcher-worker-4",
+        "m": "Compiling project Benchmark...",
+        "l": 1651568878600
+    },
+    {
+        "t": "ERROR",
+        "a": "Project-Benchmark",
+        "th": "DefaultDispatcher-worker-4",
+        "m": "org.mozilla.javascript.EvaluatorException: missing ; before statement (Benchmark#28)",
+        "l": 1651568878742
+    },
+    {
+        "t": "INFO",
+        "th": "DefaultDispatcher-worker-2",
+        "m": "Compiling project Benchmark...",
+        "l": 1651571523369
+    },
+    {
+        "t": "VERBOSE",
+        "a": "Project-Benchmark",
+        "th": "DefaultDispatcher-worker-16",
+        "m": "engine released",
+        "l": 1651571738109
+    },
+    {
+        "t": "INFO",
+        "th": "DefaultDispatcher-worker-16",
+        "m": "Compiling project Benchmark...",
+        "l": 1651571738149
+    },
+    {
+        "t": "VERBOSE",
+        "a": "Project-Benchmark",
+        "m": "engine released",
+        "l": 1651571786570
+    },
+    {
+        "t": "INFO",
+        "m": "Compiling project Benchmark...",
+        "l": 1651571786602
+    },
+    {
+        "t": "VERBOSE",
+        "a": "Project-Benchmark",
+        "th": "DefaultDispatcher-worker-5",
+        "m": "engine released",
+        "l": 1651572039851
+    },
+    {
+        "t": "INFO",
+        "th": "DefaultDispatcher-worker-5",
+        "m": "Compiling project Benchmark...",
+        "l": 1651572039896
+    },
+    {
+        "t": "ERROR",
+        "a": "Project-Benchmark",
+        "th": "Project-Benchmark-worker-3",
+        "m": "Error while running: org.mozilla.javascript.EcmaError: TypeError: Cannot find function sum in object 6649,6372. (Benchmark#39)",
+        "l": 1651572063871
+    },
+    {
+        "t": "ERROR",
+        "a": "Benchmark",
+        "th": "Project-Benchmark-worker-3",
+        "m": "Shutting down project 'Benchmark'...",
+        "l": 1651572063908
+    },
+    {
+        "t": "INFO",
+        "th": "DefaultDispatcher-worker-6",
+        "m": "Compiling project Benchmark...",
+        "l": 1651572283243
+    },
+    {
+        "t": "VERBOSE",
+        "a": "Project-Benchmark",
+        "th": "DefaultDispatcher-worker-15",
+        "m": "engine released",
+        "l": 1651572289347
+    },
+    {
+        "t": "INFO",
+        "th": "DefaultDispatcher-worker-15",
+        "m": "Compiling project Benchmark...",
+        "l": 1651572289384
+    },
+    {
+        "t": "VERBOSE",
+        "a": "Project-Benchmark",
+        "th": "DefaultDispatcher-worker-9",
+        "m": "engine released",
+        "l": 1651572653808
+    },
+    {
+        "t": "INFO",
+        "th": "DefaultDispatcher-worker-9",
+        "m": "Compiling project Benchmark...",
+        "l": 1651572653849
+    },
+    {
+        "t": "VERBOSE",
+        "a": "Project-Benchmark",
+        "th": "DefaultDispatcher-worker-1",
+        "m": "engine released",
+        "l": 1651572761810
+    },
+    {
+        "t": "INFO",
+        "th": "DefaultDispatcher-worker-1",
+        "m": "Compiling project Benchmark...",
+        "l": 1651572761878
+    },
+    {
+        "t": "VERBOSE",
+        "a": "Project-Benchmark",
+        "th": "DefaultDispatcher-worker-1",
+        "m": "engine released",
+        "l": 1651572801511
+    },
+    {
+        "t": "INFO",
+        "th": "DefaultDispatcher-worker-1",
+        "m": "Compiling project Benchmark...",
+        "l": 1651572801556
+    },
+    {
+        "t": "VERBOSE",
+        "a": "Project-Benchmark",
+        "th": "DefaultDispatcher-worker-12",
+        "m": "engine released",
+        "l": 1651572810124
+    },
+    {
+        "t": "INFO",
+        "th": "DefaultDispatcher-worker-12",
+        "m": "Compiling project Benchmark...",
+        "l": 1651572810172
+    },
+    {
+        "t": "VERBOSE",
+        "a": "Project-Benchmark",
+        "th": "DefaultDispatcher-worker-14",
+        "m": "engine released",
+        "l": 1651572877713
+    },
+    {
+        "t": "INFO",
+        "th": "DefaultDispatcher-worker-14",
+        "m": "Compiling project Benchmark...",
+        "l": 1651572877766
+    },
+    {
+        "t": "VERBOSE",
+        "a": "Project-Benchmark",
+        "th": "DefaultDispatcher-worker-20",
+        "m": "engine released",
+        "l": 1651572889953
+    },
+    {
+        "t": "INFO",
+        "th": "DefaultDispatcher-worker-20",
+        "m": "Compiling project Benchmark...",
+        "l": 1651572890003
+    },
+    {
+        "t": "INFO",
+        "m": "Compiling project Benchmark...",
+        "l": 1651573022088
+    },
+    {
+        "t": "VERBOSE",
+        "a": "Project-Benchmark",
+        "th": "DefaultDispatcher-worker-14",
+        "m": "engine released",
+        "l": 1651573027935
+    },
+    {
+        "t": "INFO",
+        "th": "DefaultDispatcher-worker-14",
+        "m": "Compiling project Benchmark...",
+        "l": 1651573027975
+    }
+]

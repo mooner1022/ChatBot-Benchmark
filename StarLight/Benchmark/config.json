@@ -1,0 +1,16 @@
+{
+    "beta_features": {
+    },
+    "JS_RHINO": {
+        "optimize_code": {
+            "type": "Boolean",
+            "value": "true"
+        },
+        "optimization_level": {
+            "type": "Int",
+            "value": "9"
+        }
+    },
+    "general": {
+    }
+}
